@@ -1,0 +1,182 @@
+# depslib dependency file v1.0
+1526585595 source:c:\users\studentlib1a\desktop\anagram set (derek)\anagramset.cpp
+	"AnagramSet.h"
+	"OList.h"
+	<iostream>
+	<vector>
+	<string>
+	<list>
+
+1526587956 source:c:\users\studentlib1a\desktop\anagram set (derek)\dictionary.cpp
+	"Dictionary.h"
+	<cmath>
+	<cstring>
+	<iostream>
+
+1526588287 source:c:\users\studentlib1a\desktop\anagram set (derek)\driver (test).cpp
+	<iostream>
+	"AnagramSet.h"
+	"Dictionary.h"
+	<iomanip>
+	<fstream>
+	<ctime>
+	<cstdlib>
+
+1526585595 source:c:\users\studentlib1a\desktop\anagram set (derek)\letterbag.cpp
+	"LetterBag.h"
+	<iostream>
+	<cstdlib>
+	<vector>
+	<cstring>
+	<cctype>
+	<string>
+
+1526588686 source:c:\users\studentlib1a\desktop\anagram set (derek)\olist.cpp
+	"OList.h"
+	"AnagramSet.h"
+	"Dictionary.h"
+	"LetterBag.h"
+	<iostream>
+	<stdexcept>
+	<cstdlib>
+
+1526588834 c:\users\studentlib1a\desktop\anagram set (derek)\olist.h
+	<iostream>
+	<stdexcept>
+	<cstdlib>
+	<iostream>
+	<stdexcept>
+	<cstdlib>
+
+1526585595 c:\users\studentlib1a\desktop\anagram set (derek)\letterbag.h
+	<iostream>
+	<vector>
+	<cctype>
+	<cstdlib>
+	<ctime>
+	<string>
+
+1526587770 c:\users\studentlib1a\desktop\anagram set (derek)\dictionary.h
+	"AnagramSet.h"
+	<iostream>
+	<string>
+
+1526585595 c:\users\studentlib1a\desktop\anagram set (derek)\anagramset.h
+	"OList.h"
+	"LetterBag.h"
+	<iostream>
+	<vector>
+	<string>
+
+1526009820 source:c:\users\compsci\desktop\anagram set (derek)\anagramset.cpp
+	"AnagramSet.h"
+	"OList.h"
+	<iostream>
+	<vector>
+	<string>
+	<list>
+
+1526005805 c:\users\compsci\desktop\anagram set (derek)\anagramset.h
+	"OList.h"
+	"LetterBag.h"
+	<iostream>
+	<vector>
+	<string>
+
+1526005805 c:\users\compsci\desktop\anagram set (derek)\olist.h
+	<iostream>
+	<stdexcept>
+	<cstdlib>
+
+1526005805 c:\users\compsci\desktop\anagram set (derek)\letterbag.h
+	<iostream>
+	<vector>
+	<cctype>
+	<cstdlib>
+	<ctime>
+	<string>
+
+1526009162 source:c:\users\compsci\desktop\anagram set (derek)\dictionary.cpp
+	"Dictionary.h"
+	<cmath>
+	<cstring>
+
+1526011300 c:\users\compsci\desktop\anagram set (derek)\dictionary.h
+	"AnagramSet.h"
+	<iostream>
+	<string>
+
+1526005805 source:c:\users\compsci\desktop\anagram set (derek)\letterbag.cpp
+	"LetterBag.h"
+	<iostream>
+	<cstdlib>
+	<vector>
+	<cstring>
+	<cctype>
+	<string>
+
+1526011357 source:c:\users\compsci\desktop\anagram set (derek)\driver (test).cpp
+	<iostream>
+	"AnagramSet.h"
+	"Dictionary.h"
+	<iomanip>
+	<fstream>
+	<ctime>
+	<cstdlib>
+
+1526346472 source:c:\users\compsci\desktop\anagram set (derek r.)\dictionary.cpp
+	"Dictionary.h"
+	<cmath>
+	<cstring>
+
+1526346472 c:\users\compsci\desktop\anagram set (derek r.)\dictionary.h
+	"AnagramSet.h"
+	<iostream>
+	<string>
+
+1526343729 c:\users\compsci\desktop\anagram set (derek r.)\anagramset.h
+	"OList.h"
+	"LetterBag.h"
+	<iostream>
+	<vector>
+	<string>
+
+1526343729 c:\users\compsci\desktop\anagram set (derek r.)\olist.h
+	<iostream>
+	<stdexcept>
+	<cstdlib>
+
+1526343729 c:\users\compsci\desktop\anagram set (derek r.)\letterbag.h
+	<iostream>
+	<vector>
+	<cctype>
+	<cstdlib>
+	<ctime>
+	<string>
+
+1526343729 source:c:\users\compsci\desktop\anagram set (derek r.)\letterbag.cpp
+	"LetterBag.h"
+	<iostream>
+	<cstdlib>
+	<vector>
+	<cstring>
+	<cctype>
+	<string>
+
+1526343729 source:c:\users\compsci\desktop\anagram set (derek r.)\anagramset.cpp
+	"AnagramSet.h"
+	"OList.h"
+	<iostream>
+	<vector>
+	<string>
+	<list>
+
+1526346886 source:c:\users\compsci\desktop\anagram set (derek r.)\driver (test).cpp
+	<iostream>
+	"AnagramSet.h"
+	"Dictionary.h"
+	<iomanip>
+	<fstream>
+	<ctime>
+	<cstdlib>
+

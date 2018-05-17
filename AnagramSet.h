@@ -57,172 +57,65 @@
     size is a stress test for your implementation. Times are provided as an indicator of the efficiency
     you're shooting for.
 **/
-#ifndef LETTERBAG_H
-#define LETTERBAG_H
+#ifndef ANAGRAMSET_H
+#define ANAGRAMSET_H
 
+#include "OList.h"
+#include "LetterBag.h"
 #include <iostream>
 #include <vector>
-#include <cctype>
-#include <cstdlib>
-#include <ctime>
 #include <string>
 
 using namespace std;
 
-class LetterBag
+class AnagramSet
 {
-    friend ostream & operator << (ostream & out, const LetterBag &l)
+    friend ostream & operator<<(ostream & out, const AnagramSet & a)
     {
-        vector<char> vec_1 = l.toVector();
-        for (unsigned int i = 0; i < vec_1.size(); i++)
-        {
-            out << vec_1[i] << " ";
-        }
-        return out;
+        a.words.print(out);
+        return (out);
     }
-	private:
-			int counts[26];
-			static bool in_Range(char c);
-			char toLower( char c );
-			int size;
-	public:
-            LetterBag();
 
-            LetterBag(const vector<char> & v);
-
-            LetterBag& Add(char c);
-
-            LetterBag(const string & s);
-
-            intmax_t getCurrentSize() const;  // return the current size of the LetterBag
-
+    public:
+            LetterBag key;
+            OList<string> words;
+            AnagramSet();
+            AnagramSet(const string word);
+            int getSize() const;
             bool isEmpty() const;
-
-            LetterBag operator+(char ch) const;
-
-            LetterBag & operator+=(char ch);
-
-            LetterBag operator+(const LetterBag & other) const;
-
-            LetterBag & operator+=(const LetterBag & other);
-
-            LetterBag operator-(char ch) const;
-
-            LetterBag & operator-=(char ch);
-
-            LetterBag operator-(const LetterBag & other) const;
-
-            LetterBag & operator-=(const LetterBag & other);
-
-            LetterBag & removeAll(char ch);
-
-            LetterBag & clear();
-
-            intmax_t getFrequency(char c) const;
-
-            vector<char> toVector() const;
-
-            string toString();
-
-            bool operator<(const LetterBag & other) const;
-
-            bool operator<=(const LetterBag & other) const;
-
-            bool operator>(const LetterBag & other) const;
-
-            bool operator>=(const LetterBag & other) const;
-
-            bool operator==(const LetterBag & other) const;
-
-            bool operator!=(const LetterBag & other) const;
-
-            bool is_Subbag(const LetterBag & other) const;
-
 };
-#endif // LETTERBAG_H
+#endif // ANAGRAMSET_h
 #pragma once
 
-#ifndef LETTERBAG_H
-#define LETTERBAG_H
+#ifndef ANAGRAMSET_H
+#define ANAGRAMSET_H
 
+#include "OList.h"
+#include "LetterBag.h"
 #include <iostream>
 #include <vector>
-#include <cctype>
-#include <cstdlib>
-#include <ctime>
 #include <string>
 
 using namespace std;
 
-class LetterBag
+class AnagramSet
 {
-    friend ostream & operator << (ostream & out, const LetterBag &l)
+    friend ostream & operator<<(ostream & out, const AnagramSet & a)
     {
-        vector<char> vec_1 = l.toVector();
-        for (unsigned int i = 0; i < vec_1.size(); i++)
-        {
-            out << vec_1[i] << " ";
-        }
-        return out;
+        a.words.print(out);
+        return (out);
     }
-	private:
-			int counts[26];
-			static bool in_Range(char c);
-			char toLower( char c );
-			int size;
-	public:
-            LetterBag();
 
-            LetterBag(const vector<char> & v);
-
-            LetterBag& Add(char c);
-
-            LetterBag(const string & s);
-
-            intmax_t getCurrentSize() const;  // return the current size of the LetterBag
-
+    public:
+            LetterBag key;
+            OList<string> words;
+            AnagramSet();
+            AnagramSet(const string word);
+            int getSize() const;
             bool isEmpty() const;
-
-            LetterBag operator+(char ch) const;
-
-            LetterBag & operator+=(char ch);
-
-            LetterBag operator+(const LetterBag & other) const;
-
-            LetterBag & operator+=(const LetterBag & other);
-
-            LetterBag operator-(char ch) const;
-
-            LetterBag & operator-=(char ch);
-
-            LetterBag operator-(const LetterBag & other) const;
-
-            LetterBag & operator-=(const LetterBag & other);
-
-            LetterBag & removeAll(char ch);
-
-            LetterBag & clear();
-
-            intmax_t getFrequency(char c) const;
-
-            vector<char> toVector() const;
-
-            string toString();
-
-            bool operator<(const LetterBag & other) const;
-
-            bool operator<=(const LetterBag & other) const;
-
-            bool operator>(const LetterBag & other) const;
-
-            bool operator>=(const LetterBag & other) const;
-
-            bool operator==(const LetterBag & other) const;
-
-            bool operator!=(const LetterBag & other) const;
-
-            bool is_Subbag(const LetterBag & other) const;
-
 };
-#endif // LETTERBAG_H
+#endif // ANAGRAMSET_H
 #pragma once
+
+
+

@@ -1,0 +1,2690 @@
+Print Print Print
+a: { a }
+
+aa: { aa }
+
+aaa: { aaa }
+
+aaaa: { aaaa }
+
+aaaaa: { aaaaa }
+
+aaaab: { aaaba, aabaa, abaaa }
+
+aaaac: { aaaca, aacaa, acaaa }
+
+aaaad: { aaada, aadaa, adaaa }
+
+aaaae: { aaaea, aaeaa, aeaaa }
+
+aaaaf: { aaafa, aafaa, afaaa }
+
+aaaag: { aaaga, aagaa, agaaa }
+
+aaaah: { aaaha, aahaa, ahaaa }
+
+aaaai: { aaaia, aaiaa, aiaaa }
+
+aaaaj: { aaaja, aajaa, ajaaa }
+
+aaaak: { aaaka, aakaa, akaaa }
+
+aaab: { aaba, abaa }
+
+aaabb: { aabba, ababa, abbaa }
+
+aaabc: { aabca, aacba, abaca, abcaa, acaba, acbaa }
+
+aaabd: { aabda, aadba, abada, abdaa, adaba, adbaa }
+
+aaabe: { aabea, aaeba, abaea, abeaa, aeaba, aebaa }
+
+aaabf: { aabfa, aafba, abafa, abfaa, afaba, afbaa }
+
+aaabg: { aabga, aagba, abaga, abgaa, agaba, agbaa }
+
+aaabh: { aabha, aahba, abaha, abhaa, ahaba, ahbaa }
+
+aaabi: { aabia, aaiba, abaia, abiaa, aiaba, aibaa }
+
+aaabj: { aabja, aajba, abaja, abjaa, ajaba, ajbaa }
+
+aaabk: { aabka, aakba, abaka, abkaa, akaba, akbaa }
+
+aaac: { aaca, acaa }
+
+aaacc: { aacca, acaca, accaa }
+
+aaacd: { aacda, aadca, acada, acdaa, adaca, adcaa }
+
+aaace: { aacea, aaeca, acaea, aceaa, aeaca, aecaa }
+
+aaacf: { aacfa, aafca, acafa, acfaa, afaca, afcaa }
+
+aaacg: { aacga, aagca, acaga, acgaa, agaca, agcaa }
+
+aaach: { aacha, aahca, acaha, achaa, ahaca, ahcaa }
+
+aaaci: { aacia, aaica, acaia, aciaa, aiaca, aicaa }
+
+aaacj: { aacja, aajca, acaja, acjaa, ajaca, ajcaa }
+
+aaack: { aacka, aakca, acaka, ackaa, akaca, akcaa }
+
+aaad: { aada, adaa }
+
+aaadd: { aadda, adada, addaa }
+
+aaade: { aadea, aaeda, adaea, adeaa, aeada, aedaa }
+
+aaadf: { aadfa, aafda, adafa, adfaa, afada, afdaa }
+
+aaadg: { aadga, aagda, adaga, adgaa, agada, agdaa }
+
+aaadh: { aadha, aahda, adaha, adhaa, ahada, ahdaa }
+
+aaadi: { aadia, aaida, adaia, adiaa, aiada, aidaa }
+
+aaadj: { aadja, aajda, adaja, adjaa, ajada, ajdaa }
+
+aaadk: { aadka, aakda, adaka, adkaa, akada, akdaa }
+
+aaae: { aaea, aeaa }
+
+aaaee: { aaeea, aeaea, aeeaa }
+
+aaaef: { aaefa, aafea, aeafa, aefaa, afaea, afeaa }
+
+aaaeg: { aaega, aagea, aeaga, aegaa, agaea, ageaa }
+
+aaaeh: { aaeha, aahea, aeaha, aehaa, ahaea, aheaa }
+
+aaaei: { aaeia, aaiea, aeaia, aeiaa, aiaea, aieaa }
+
+aaaej: { aaeja, aajea, aeaja, aejaa, ajaea, ajeaa }
+
+aaaek: { aaeka, aakea, aeaka, aekaa, akaea, akeaa }
+
+aaaf: { aafa, afaa }
+
+aaaff: { aaffa, afafa, affaa }
+
+aaafg: { aafga, aagfa, afaga, afgaa, agafa, agfaa }
+
+aaafh: { aafha, aahfa, afaha, afhaa, ahafa, ahfaa }
+
+aaafi: { aafia, aaifa, afaia, afiaa, aiafa, aifaa }
+
+aaafj: { aafja, aajfa, afaja, afjaa, ajafa, ajfaa }
+
+aaafk: { aafka, aakfa, afaka, afkaa, akafa, akfaa }
+
+aaag: { aaga, agaa }
+
+aaagg: { aagga, agaga, aggaa }
+
+aaagh: { aagha, aahga, agaha, aghaa, ahaga, ahgaa }
+
+aaagi: { aagia, aaiga, agaia, agiaa, aiaga, aigaa }
+
+aaagj: { aagja, aajga, agaja, agjaa, ajaga, ajgaa }
+
+aaagk: { aagka, aakga, agaka, agkaa, akaga, akgaa }
+
+aaah: { aaha, ahaa }
+
+aaahh: { aahha, ahaha, ahhaa }
+
+aaahi: { aahia, aaiha, ahaia, ahiaa, aiaha, aihaa }
+
+aaahj: { aahja, aajha, ahaja, ahjaa, ajaha, ajhaa }
+
+aaahk: { aahka, aakha, ahaka, ahkaa, akaha, akhaa }
+
+aaai: { aaia, aiaa }
+
+aaaii: { aaiia, aiaia, aiiaa }
+
+aaaij: { aaija, aajia, aiaja, aijaa, ajaia, ajiaa }
+
+aaaik: { aaika, aakia, aiaka, aikaa, akaia, akiaa }
+
+aaaj: { aaja, ajaa }
+
+aaajj: { aajja, ajaja, ajjaa }
+
+aaajk: { aajka, aakja, ajaka, ajkaa, akaja, akjaa }
+
+aaak: { aaka, akaa }
+
+aaakk: { aakka, akaka, akkaa }
+
+aaaal: { aalaa }
+
+aaabl: { aalba, ablaa }
+
+aaacl: { aalca, aclaa }
+
+aaadl: { aalda, adlaa }
+
+aaael: { aalea, aelaa }
+
+aaafl: { aalfa, aflaa }
+
+aaagl: { aalga, aglaa }
+
+aaahl: { aalha, ahlaa }
+
+aaail: { aalia, ailaa }
+
+aaajl: { aalja, ajlaa }
+
+aaakl: { aalka, aklaa }
+
+aaaam: { aamaa }
+
+aaabm: { aamba, abmaa }
+
+aaacm: { aamca, acmaa }
+
+aaadm: { aamda, admaa }
+
+aaaem: { aamea, aemaa }
+
+aaafm: { aamfa, afmaa }
+
+aaagm: { aamga, agmaa }
+
+aaahm: { aamha, ahmaa }
+
+aaaim: { aamia, aimaa }
+
+aaajm: { aamja, ajmaa }
+
+aaakm: { aamka, akmaa }
+
+aaaan: { aanaa }
+
+aaabn: { aanba, abnaa }
+
+aaacn: { aanca, acnaa }
+
+aaadn: { aanda, adnaa }
+
+aaaen: { aanea, aenaa }
+
+aaafn: { aanfa, afnaa }
+
+aaagn: { aanga, agnaa }
+
+aaahn: { aanha, ahnaa }
+
+aaain: { aania, ainaa }
+
+aaajn: { aanja, ajnaa }
+
+aaakn: { aanka, aknaa }
+
+aaaao: { aaoaa }
+
+aaabo: { aaoba, aboaa }
+
+aaaco: { aaoca, acoaa }
+
+aaado: { aaoda, adoaa }
+
+aaaeo: { aaoea, aeoaa }
+
+aaafo: { aaofa, afoaa }
+
+aaago: { aaoga, agoaa }
+
+aaaho: { aaoha, ahoaa }
+
+aaaio: { aaoia, aioaa }
+
+aaajo: { aaoja, ajoaa }
+
+aaako: { aaoka, akoaa }
+
+aaaap: { aapaa }
+
+aaabp: { aapba, abpaa }
+
+aaacp: { aapca, acpaa }
+
+aaadp: { aapda, adpaa }
+
+aaaep: { aapea, aepaa }
+
+aaafp: { aapfa, afpaa }
+
+aaagp: { aapga, agpaa }
+
+aaahp: { aapha, ahpaa }
+
+aaaip: { aapia, aipaa }
+
+aaajp: { aapja, ajpaa }
+
+aaakp: { aapka, akpaa }
+
+aaaaq: { aaqaa }
+
+aaabq: { aaqba, abqaa }
+
+aaacq: { aaqca, acqaa }
+
+aaadq: { aaqda, adqaa }
+
+aaaeq: { aaqea, aeqaa }
+
+aaafq: { aaqfa, afqaa }
+
+aaagq: { aaqga, agqaa }
+
+aaahq: { aaqha, ahqaa }
+
+aaaiq: { aaqia, aiqaa }
+
+aaajq: { aaqja, ajqaa }
+
+aaakq: { aaqka, akqaa }
+
+aaaar: { aaraa }
+
+aaabr: { aarba, abraa }
+
+aaacr: { aarca, acraa }
+
+aaadr: { aarda, adraa }
+
+aaaer: { aarea, aeraa }
+
+aaafr: { aarfa, afraa }
+
+aaagr: { aarga, agraa }
+
+aaahr: { aarha, ahraa }
+
+aaair: { aaria, airaa }
+
+aaajr: { aarja, ajraa }
+
+aaakr: { aarka, akraa }
+
+aab: { aba }
+
+aabb: { abba }
+
+aabbb: { abbba }
+
+aabbc: { abbca, abcba, acbba }
+
+aabbd: { abbda, abdba, adbba }
+
+aabbe: { abbea, abeba, aebba }
+
+aabbf: { abbfa, abfba, afbba }
+
+aabbg: { abbga, abgba, agbba }
+
+aabbh: { abbha, abhba, ahbba }
+
+aabbi: { abbia, abiba, aibba }
+
+aabbj: { abbja, abjba, ajbba }
+
+aabbk: { abbka, abkba, akbba }
+
+aabc: { abca, acba }
+
+aabcc: { abcca, acbca, accba }
+
+aabcd: { abcda, abdca, acbda, acdba, adbca, adcba }
+
+aabce: { abcea, abeca, acbea, aceba, aebca, aecba }
+
+aabcf: { abcfa, abfca, acbfa, acfba, afbca, afcba }
+
+aabcg: { abcga, abgca, acbga, acgba, agbca, agcba }
+
+aabch: { abcha, abhca, acbha, achba, ahbca, ahcba }
+
+aabci: { abcia, abica, acbia, aciba, aibca, aicba }
+
+aabcj: { abcja, abjca, acbja, acjba, ajbca, ajcba }
+
+aabck: { abcka, abkca, acbka, ackba, akbca, akcba }
+
+aabd: { abda, adba }
+
+aabdd: { abdda, adbda, addba }
+
+aabde: { abdea, abeda, adbea, adeba, aebda, aedba }
+
+aabdf: { abdfa, abfda, adbfa, adfba, afbda, afdba }
+
+aabdg: { abdga, abgda, adbga, adgba, agbda, agdba }
+
+aabdh: { abdha, abhda, adbha, adhba, ahbda, ahdba }
+
+aabdi: { abdia, abida, adbia, adiba, aibda, aidba }
+
+aabdj: { abdja, abjda, adbja, adjba, ajbda, ajdba }
+
+aabdk: { abdka, abkda, adbka, adkba, akbda, akdba }
+
+aabe: { abea, aeba }
+
+aabee: { abeea, aebea, aeeba }
+
+aabef: { abefa, abfea, aebfa, aefba, afbea, afeba }
+
+aabeg: { abega, abgea, aebga, aegba, agbea, ageba }
+
+aabeh: { abeha, abhea, aebha, aehba, ahbea, aheba }
+
+aabei: { abeia, abiea, aebia, aeiba, aibea, aieba }
+
+aabej: { abeja, abjea, aebja, aejba, ajbea, ajeba }
+
+aabek: { abeka, abkea, aebka, aekba, akbea, akeba }
+
+aabf: { abfa, afba }
+
+aabff: { abffa, afbfa, affba }
+
+aabfg: { abfga, abgfa, afbga, afgba, agbfa, agfba }
+
+aabfh: { abfha, abhfa, afbha, afhba, ahbfa, ahfba }
+
+aabfi: { abfia, abifa, afbia, afiba, aibfa, aifba }
+
+aabfj: { abfja, abjfa, afbja, afjba, ajbfa, ajfba }
+
+aabfk: { abfka, abkfa, afbka, afkba, akbfa, akfba }
+
+aabg: { abga, agba }
+
+aabgg: { abgga, agbga, aggba }
+
+aabgh: { abgha, abhga, agbha, aghba, ahbga, ahgba }
+
+aabgi: { abgia, abiga, agbia, agiba, aibga, aigba }
+
+aabgj: { abgja, abjga, agbja, agjba, ajbga, ajgba }
+
+aabgk: { abgka, abkga, agbka, agkba, akbga, akgba }
+
+aabh: { abha, ahba }
+
+aabhh: { abhha, ahbha, ahhba }
+
+aabhi: { abhia, abiha, ahbia, ahiba, aibha, aihba }
+
+aabhj: { abhja, abjha, ahbja, ahjba, ajbha, ajhba }
+
+aabhk: { abhka, abkha, ahbka, ahkba, akbha, akhba }
+
+aabi: { abia, aiba }
+
+aabii: { abiia, aibia, aiiba }
+
+aabij: { abija, abjia, aibja, aijba, ajbia, ajiba }
+
+aabik: { abika, abkia, aibka, aikba, akbia, akiba }
+
+aabj: { abja, ajba }
+
+aabjj: { abjja, ajbja, ajjba }
+
+aabjk: { abjka, abkja, ajbka, ajkba, akbja, akjba }
+
+aabk: { abka, akba }
+
+aabkk: { abkka, akbka, akkba }
+
+aabbl: { ablba }
+
+aabcl: { ablca, aclba }
+
+aabdl: { ablda, adlba }
+
+aabel: { ablea, aelba }
+
+aabfl: { ablfa, aflba }
+
+aabgl: { ablga, aglba }
+
+aabhl: { ablha, ahlba }
+
+aabil: { ablia, ailba }
+
+aabjl: { ablja, ajlba }
+
+aabkl: { ablka, aklba }
+
+aabbm: { abmba }
+
+aabcm: { abmca, acmba }
+
+aabdm: { abmda, admba }
+
+aabem: { abmea, aemba }
+
+aabfm: { abmfa, afmba }
+
+aabgm: { abmga, agmba }
+
+aabhm: { abmha, ahmba }
+
+aabim: { abmia, aimba }
+
+aabjm: { abmja, ajmba }
+
+aabkm: { abmka, akmba }
+
+aabbn: { abnba }
+
+aabcn: { abnca, acnba }
+
+aabdn: { abnda, adnba }
+
+aaben: { abnea, aenba }
+
+aabfn: { abnfa, afnba }
+
+aabgn: { abnga, agnba }
+
+aabhn: { abnha, ahnba }
+
+aabin: { abnia, ainba }
+
+aabjn: { abnja, ajnba }
+
+aabkn: { abnka, aknba }
+
+aabbo: { aboba }
+
+aabco: { aboca, acoba }
+
+aabdo: { aboda, adoba }
+
+aabeo: { aboea, aeoba }
+
+aabfo: { abofa, afoba }
+
+aabgo: { aboga, agoba }
+
+aabho: { aboha, ahoba }
+
+aabio: { aboia, aioba }
+
+aabjo: { aboja, ajoba }
+
+aabko: { aboka, akoba }
+
+aabbp: { abpba }
+
+aabcp: { abpca, acpba }
+
+aabdp: { abpda, adpba }
+
+aabep: { abpea, aepba }
+
+aabfp: { abpfa, afpba }
+
+aabgp: { abpga, agpba }
+
+aabhp: { abpha, ahpba }
+
+aabip: { abpia, aipba }
+
+aabjp: { abpja, ajpba }
+
+aabkp: { abpka, akpba }
+
+aabbq: { abqba }
+
+aabcq: { abqca, acqba }
+
+aabdq: { abqda, adqba }
+
+aabeq: { abqea, aeqba }
+
+aabfq: { abqfa, afqba }
+
+aabgq: { abqga, agqba }
+
+aabhq: { abqha, ahqba }
+
+aabiq: { abqia, aiqba }
+
+aabjq: { abqja, ajqba }
+
+aabkq: { abqka, akqba }
+
+aabbr: { abrba }
+
+aabcr: { abrca, acrba }
+
+aabdr: { abrda, adrba }
+
+aaber: { abrea, aerba }
+
+aabfr: { abrfa, afrba }
+
+aabgr: { abrga, agrba }
+
+aabhr: { abrha, ahrba }
+
+aabir: { abria, airba }
+
+aabjr: { abrja, ajrba }
+
+aabkr: { abrka, akrba }
+
+aac: { aca }
+
+aacc: { acca }
+
+aaccc: { accca }
+
+aaccd: { accda, acdca, adcca }
+
+aacce: { accea, aceca, aecca }
+
+aaccf: { accfa, acfca, afcca }
+
+aaccg: { accga, acgca, agcca }
+
+aacch: { accha, achca, ahcca }
+
+aacci: { accia, acica, aicca }
+
+aaccj: { accja, acjca, ajcca }
+
+aacck: { accka, ackca, akcca }
+
+aacd: { acda, adca }
+
+aacdd: { acdda, adcda, addca }
+
+aacde: { acdea, aceda, adcea, adeca, aecda, aedca }
+
+aacdf: { acdfa, acfda, adcfa, adfca, afcda, afdca }
+
+aacdg: { acdga, acgda, adcga, adgca, agcda, agdca }
+
+aacdh: { acdha, achda, adcha, adhca, ahcda, ahdca }
+
+aacdi: { acdia, acida, adcia, adica, aicda, aidca }
+
+aacdj: { acdja, acjda, adcja, adjca, ajcda, ajdca }
+
+aacdk: { acdka, ackda, adcka, adkca, akcda, akdca }
+
+aace: { acea, aeca }
+
+aacee: { aceea, aecea, aeeca }
+
+aacef: { acefa, acfea, aecfa, aefca, afcea, afeca }
+
+aaceg: { acega, acgea, aecga, aegca, agcea, ageca }
+
+aaceh: { aceha, achea, aecha, aehca, ahcea, aheca }
+
+aacei: { aceia, aciea, aecia, aeica, aicea, aieca }
+
+aacej: { aceja, acjea, aecja, aejca, ajcea, ajeca }
+
+aacek: { aceka, ackea, aecka, aekca, akcea, akeca }
+
+aacf: { acfa, afca }
+
+aacff: { acffa, afcfa, affca }
+
+aacfg: { acfga, acgfa, afcga, afgca, agcfa, agfca }
+
+aacfh: { acfha, achfa, afcha, afhca, ahcfa, ahfca }
+
+aacfi: { acfia, acifa, afcia, afica, aicfa, aifca }
+
+aacfj: { acfja, acjfa, afcja, afjca, ajcfa, ajfca }
+
+aacfk: { acfka, ackfa, afcka, afkca, akcfa, akfca }
+
+aacg: { acga, agca }
+
+aacgg: { acgga, agcga, aggca }
+
+aacgh: { acgha, achga, agcha, aghca, ahcga, ahgca }
+
+aacgi: { acgia, aciga, agcia, agica, aicga, aigca }
+
+aacgj: { acgja, acjga, agcja, agjca, ajcga, ajgca }
+
+aacgk: { acgka, ackga, agcka, agkca, akcga, akgca }
+
+aach: { acha, ahca }
+
+aachh: { achha, ahcha, ahhca }
+
+aachi: { achia, aciha, ahcia, ahica, aicha, aihca }
+
+aachj: { achja, acjha, ahcja, ahjca, ajcha, ajhca }
+
+aachk: { achka, ackha, ahcka, ahkca, akcha, akhca }
+
+aaci: { acia, aica }
+
+aacii: { aciia, aicia, aiica }
+
+aacij: { acija, acjia, aicja, aijca, ajcia, ajica }
+
+aacik: { acika, ackia, aicka, aikca, akcia, akica }
+
+aacj: { acja, ajca }
+
+aacjj: { acjja, ajcja, ajjca }
+
+aacjk: { acjka, ackja, ajcka, ajkca, akcja, akjca }
+
+aack: { acka, akca }
+
+aackk: { ackka, akcka, akkca }
+
+aaccl: { aclca }
+
+aacdl: { aclda, adlca }
+
+aacel: { aclea, aelca }
+
+aacfl: { aclfa, aflca }
+
+aacgl: { aclga, aglca }
+
+aachl: { aclha, ahlca }
+
+aacil: { aclia, ailca }
+
+aacjl: { aclja, ajlca }
+
+aackl: { aclka, aklca }
+
+aaccm: { acmca }
+
+aacdm: { acmda, admca }
+
+aacem: { acmea, aemca }
+
+aacfm: { acmfa, afmca }
+
+aacgm: { acmga, agmca }
+
+aachm: { acmha, ahmca }
+
+aacim: { acmia, aimca }
+
+aacjm: { acmja, ajmca }
+
+aackm: { acmka, akmca }
+
+aaccn: { acnca }
+
+aacdn: { acnda, adnca }
+
+aacen: { acnea, aenca }
+
+aacfn: { acnfa, afnca }
+
+aacgn: { acnga, agnca }
+
+aachn: { acnha, ahnca }
+
+aacin: { acnia, ainca }
+
+aacjn: { acnja, ajnca }
+
+aackn: { acnka, aknca }
+
+aacco: { acoca }
+
+aacdo: { acoda, adoca }
+
+aaceo: { acoea, aeoca }
+
+aacfo: { acofa, afoca }
+
+aacgo: { acoga, agoca }
+
+aacho: { acoha, ahoca }
+
+aacio: { acoia, aioca }
+
+aacjo: { acoja, ajoca }
+
+aacko: { acoka, akoca }
+
+aaccp: { acpca }
+
+aacdp: { acpda, adpca }
+
+aacep: { acpea, aepca }
+
+aacfp: { acpfa, afpca }
+
+aacgp: { acpga, agpca }
+
+aachp: { acpha, ahpca }
+
+aacip: { acpia, aipca }
+
+aacjp: { acpja, ajpca }
+
+aackp: { acpka, akpca }
+
+aaccq: { acqca }
+
+aacdq: { acqda, adqca }
+
+aaceq: { acqea, aeqca }
+
+aacfq: { acqfa, afqca }
+
+aacgq: { acqga, agqca }
+
+aachq: { acqha, ahqca }
+
+aaciq: { acqia, aiqca }
+
+aacjq: { acqja, ajqca }
+
+aackq: { acqka, akqca }
+
+aaccr: { acrca }
+
+aacdr: { acrda, adrca }
+
+aacer: { acrea, aerca }
+
+aacfr: { acrfa, afrca }
+
+aacgr: { acrga, agrca }
+
+aachr: { acrha, ahrca }
+
+aacir: { acria, airca }
+
+aacjr: { acrja, ajrca }
+
+aackr: { acrka, akrca }
+
+aad: { ada }
+
+aadd: { adda }
+
+aaddd: { addda }
+
+aadde: { addea, adeda, aedda }
+
+aaddf: { addfa, adfda, afdda }
+
+aaddg: { addga, adgda, agdda }
+
+aaddh: { addha, adhda, ahdda }
+
+aaddi: { addia, adida, aidda }
+
+aaddj: { addja, adjda, ajdda }
+
+aaddk: { addka, adkda, akdda }
+
+aade: { adea, aeda }
+
+aadee: { adeea, aedea, aeeda }
+
+aadef: { adefa, adfea, aedfa, aefda, afdea, afeda }
+
+aadeg: { adega, adgea, aedga, aegda, agdea, ageda }
+
+aadeh: { adeha, adhea, aedha, aehda, ahdea, aheda }
+
+aadei: { adeia, adiea, aedia, aeida, aidea, aieda }
+
+aadej: { adeja, adjea, aedja, aejda, ajdea, ajeda }
+
+aadek: { adeka, adkea, aedka, aekda, akdea, akeda }
+
+aadf: { adfa, afda }
+
+aadff: { adffa, afdfa, affda }
+
+aadfg: { adfga, adgfa, afdga, afgda, agdfa, agfda }
+
+aadfh: { adfha, adhfa, afdha, afhda, ahdfa, ahfda }
+
+aadfi: { adfia, adifa, afdia, afida, aidfa, aifda }
+
+aadfj: { adfja, adjfa, afdja, afjda, ajdfa, ajfda }
+
+aadfk: { adfka, adkfa, afdka, afkda, akdfa, akfda }
+
+aadg: { adga, agda }
+
+aadgg: { adgga, agdga, aggda }
+
+aadgh: { adgha, adhga, agdha, aghda, ahdga, ahgda }
+
+aadgi: { adgia, adiga, agdia, agida, aidga, aigda }
+
+aadgj: { adgja, adjga, agdja, agjda, ajdga, ajgda }
+
+aadgk: { adgka, adkga, agdka, agkda, akdga, akgda }
+
+aadh: { adha, ahda }
+
+aadhh: { adhha, ahdha, ahhda }
+
+aadhi: { adhia, adiha, ahdia, ahida, aidha, aihda }
+
+aadhj: { adhja, adjha, ahdja, ahjda, ajdha, ajhda }
+
+aadhk: { adhka, adkha, ahdka, ahkda, akdha, akhda }
+
+aadi: { adia, aida }
+
+aadii: { adiia, aidia, aiida }
+
+aadij: { adija, adjia, aidja, aijda, ajdia, ajida }
+
+aadik: { adika, adkia, aidka, aikda, akdia, akida }
+
+aadj: { adja, ajda }
+
+aadjj: { adjja, ajdja, ajjda }
+
+aadjk: { adjka, adkja, ajdka, ajkda, akdja, akjda }
+
+aadk: { adka, akda }
+
+aadkk: { adkka, akdka, akkda }
+
+aaddl: { adlda }
+
+aadel: { adlea, aelda }
+
+aadfl: { adlfa, aflda }
+
+aadgl: { adlga, aglda }
+
+aadhl: { adlha, ahlda }
+
+aadil: { adlia, ailda }
+
+aadjl: { adlja, ajlda }
+
+aadkl: { adlka, aklda }
+
+aaddm: { admda }
+
+aadem: { admea, aemda }
+
+aadfm: { admfa, afmda }
+
+aadgm: { admga, agmda }
+
+aadhm: { admha, ahmda }
+
+aadim: { admia, aimda }
+
+aadjm: { admja, ajmda }
+
+aadkm: { admka, akmda }
+
+aaddn: { adnda }
+
+aaden: { adnea, aenda }
+
+aadfn: { adnfa, afnda }
+
+aadgn: { adnga, agnda }
+
+aadhn: { adnha, ahnda }
+
+aadin: { adnia, ainda }
+
+aadjn: { adnja, ajnda }
+
+aadkn: { adnka, aknda }
+
+aaddo: { adoda }
+
+aadeo: { adoea, aeoda }
+
+aadfo: { adofa, afoda }
+
+aadgo: { adoga, agoda }
+
+aadho: { adoha, ahoda }
+
+aadio: { adoia, aioda }
+
+aadjo: { adoja, ajoda }
+
+aadko: { adoka, akoda }
+
+aaddp: { adpda }
+
+aadep: { adpea, aepda }
+
+aadfp: { adpfa, afpda }
+
+aadgp: { adpga, agpda }
+
+aadhp: { adpha, ahpda }
+
+aadip: { adpia, aipda }
+
+aadjp: { adpja, ajpda }
+
+aadkp: { adpka, akpda }
+
+aaddq: { adqda }
+
+aadeq: { adqea, aeqda }
+
+aadfq: { adqfa, afqda }
+
+aadgq: { adqga, agqda }
+
+aadhq: { adqha, ahqda }
+
+aadiq: { adqia, aiqda }
+
+aadjq: { adqja, ajqda }
+
+aadkq: { adqka, akqda }
+
+aaddr: { adrda }
+
+aader: { adrea, aerda }
+
+aadfr: { adrfa, afrda }
+
+aadgr: { adrga, agrda }
+
+aadhr: { adrha, ahrda }
+
+aadir: { adria, airda }
+
+aadjr: { adrja, ajrda }
+
+aadkr: { adrka, akrda }
+
+aae: { aea }
+
+aaee: { aeea }
+
+aaeee: { aeeea }
+
+aaeef: { aeefa, aefea, afeea }
+
+aaeeg: { aeega, aegea, ageea }
+
+aaeeh: { aeeha, aehea, aheea }
+
+aaeei: { aeeia, aeiea, aieea }
+
+aaeej: { aeeja, aejea, ajeea }
+
+aaeek: { aeeka, aekea, akeea }
+
+aaef: { aefa, afea }
+
+aaeff: { aeffa, afefa, affea }
+
+aaefg: { aefga, aegfa, afega, afgea, agefa, agfea }
+
+aaefh: { aefha, aehfa, afeha, afhea, ahefa, ahfea }
+
+aaefi: { aefia, aeifa, afeia, afiea, aiefa, aifea }
+
+aaefj: { aefja, aejfa, afeja, afjea, ajefa, ajfea }
+
+aaefk: { aefka, aekfa, afeka, afkea, akefa, akfea }
+
+aaeg: { aega, agea }
+
+aaegg: { aegga, agega, aggea }
+
+aaegh: { aegha, aehga, ageha, aghea, ahega, ahgea }
+
+aaegi: { aegia, aeiga, ageia, agiea, aiega, aigea }
+
+aaegj: { aegja, aejga, ageja, agjea, ajega, ajgea }
+
+aaegk: { aegka, aekga, ageka, agkea, akega, akgea }
+
+aaeh: { aeha, ahea }
+
+aaehh: { aehha, aheha, ahhea }
+
+aaehi: { aehia, aeiha, aheia, ahiea, aieha, aihea }
+
+aaehj: { aehja, aejha, aheja, ahjea, ajeha, ajhea }
+
+aaehk: { aehka, aekha, aheka, ahkea, akeha, akhea }
+
+aaei: { aeia, aiea }
+
+aaeii: { aeiia, aieia, aiiea }
+
+aaeij: { aeija, aejia, aieja, aijea, ajeia, ajiea }
+
+aaeik: { aeika, aekia, aieka, aikea, akeia, akiea }
+
+aaej: { aeja, ajea }
+
+aaejj: { aejja, ajeja, ajjea }
+
+aaejk: { aejka, aekja, ajeka, ajkea, akeja, akjea }
+
+aaek: { aeka, akea }
+
+aaekk: { aekka, akeka, akkea }
+
+aaeel: { aelea }
+
+aaefl: { aelfa, aflea }
+
+aaegl: { aelga, aglea }
+
+aaehl: { aelha, ahlea }
+
+aaeil: { aelia, ailea }
+
+aaejl: { aelja, ajlea }
+
+aaekl: { aelka, aklea }
+
+aaeem: { aemea }
+
+aaefm: { aemfa, afmea }
+
+aaegm: { aemga, agmea }
+
+aaehm: { aemha, ahmea }
+
+aaeim: { aemia, aimea }
+
+aaejm: { aemja, ajmea }
+
+aaekm: { aemka, akmea }
+
+aaeen: { aenea }
+
+aaefn: { aenfa, afnea }
+
+aaegn: { aenga, agnea }
+
+aaehn: { aenha, ahnea }
+
+aaein: { aenia, ainea }
+
+aaejn: { aenja, ajnea }
+
+aaekn: { aenka, aknea }
+
+aaeeo: { aeoea }
+
+aaefo: { aeofa, afoea }
+
+aaego: { aeoga, agoea }
+
+aaeho: { aeoha, ahoea }
+
+aaeio: { aeoia, aioea }
+
+aaejo: { aeoja, ajoea }
+
+aaeko: { aeoka, akoea }
+
+aaeep: { aepea }
+
+aaefp: { aepfa, afpea }
+
+aaegp: { aepga, agpea }
+
+aaehp: { aepha, ahpea }
+
+aaeip: { aepia, aipea }
+
+aaejp: { aepja, ajpea }
+
+aaekp: { aepka, akpea }
+
+aaeeq: { aeqea }
+
+aaefq: { aeqfa, afqea }
+
+aaegq: { aeqga, agqea }
+
+aaehq: { aeqha, ahqea }
+
+aaeiq: { aeqia, aiqea }
+
+aaejq: { aeqja, ajqea }
+
+aaekq: { aeqka, akqea }
+
+aaeer: { aerea }
+
+aaefr: { aerfa, afrea }
+
+aaegr: { aerga, agrea }
+
+aaehr: { aerha, ahrea }
+
+aaeir: { aeria, airea }
+
+aaejr: { aerja, ajrea }
+
+aaekr: { aerka, akrea }
+
+aaf: { afa }
+
+aaff: { affa }
+
+aafff: { afffa }
+
+aaffg: { affga, afgfa, agffa }
+
+aaffh: { affha, afhfa, ahffa }
+
+aaffi: { affia, afifa, aiffa }
+
+aaffj: { affja, afjfa, ajffa }
+
+aaffk: { affka, afkfa, akffa }
+
+aafg: { afga, agfa }
+
+aafgg: { afgga, agfga, aggfa }
+
+aafgh: { afgha, afhga, agfha, aghfa, ahfga, ahgfa }
+
+aafgi: { afgia, afiga, agfia, agifa, aifga, aigfa }
+
+aafgj: { afgja, afjga, agfja, agjfa, ajfga, ajgfa }
+
+aafgk: { afgka, afkga, agfka, agkfa, akfga, akgfa }
+
+aafh: { afha, ahfa }
+
+aafhh: { afhha, ahfha, ahhfa }
+
+aafhi: { afhia, afiha, ahfia, ahifa, aifha, aihfa }
+
+aafhj: { afhja, afjha, ahfja, ahjfa, ajfha, ajhfa }
+
+aafhk: { afhka, afkha, ahfka, ahkfa, akfha, akhfa }
+
+aafi: { afia, aifa }
+
+aafii: { afiia, aifia, aiifa }
+
+aafij: { afija, afjia, aifja, aijfa, ajfia, ajifa }
+
+aafik: { afika, afkia, aifka, aikfa, akfia, akifa }
+
+aafj: { afja, ajfa }
+
+aafjj: { afjja, ajfja, ajjfa }
+
+aafjk: { afjka, afkja, ajfka, ajkfa, akfja, akjfa }
+
+aafk: { afka, akfa }
+
+aafkk: { afkka, akfka, akkfa }
+
+aaffl: { aflfa }
+
+aafgl: { aflga, aglfa }
+
+aafhl: { aflha, ahlfa }
+
+aafil: { aflia, ailfa }
+
+aafjl: { aflja, ajlfa }
+
+aafkl: { aflka, aklfa }
+
+aaffm: { afmfa }
+
+aafgm: { afmga, agmfa }
+
+aafhm: { afmha, ahmfa }
+
+aafim: { afmia, aimfa }
+
+aafjm: { afmja, ajmfa }
+
+aafkm: { afmka, akmfa }
+
+aaffn: { afnfa }
+
+aafgn: { afnga, agnfa }
+
+aafhn: { afnha, ahnfa }
+
+aafin: { afnia, ainfa }
+
+aafjn: { afnja, ajnfa }
+
+aafkn: { afnka, aknfa }
+
+aaffo: { afofa }
+
+aafgo: { afoga, agofa }
+
+aafho: { afoha, ahofa }
+
+aafio: { afoia, aiofa }
+
+aafjo: { afoja, ajofa }
+
+aafko: { afoka, akofa }
+
+aaffp: { afpfa }
+
+aafgp: { afpga, agpfa }
+
+aafhp: { afpha, ahpfa }
+
+aafip: { afpia, aipfa }
+
+aafjp: { afpja, ajpfa }
+
+aafkp: { afpka, akpfa }
+
+aaffq: { afqfa }
+
+aafgq: { afqga, agqfa }
+
+aafhq: { afqha, ahqfa }
+
+aafiq: { afqia, aiqfa }
+
+aafjq: { afqja, ajqfa }
+
+aafkq: { afqka, akqfa }
+
+aaffr: { afrfa }
+
+aafgr: { afrga, agrfa }
+
+aafhr: { afrha, ahrfa }
+
+aafir: { afria, airfa }
+
+aafjr: { afrja, ajrfa }
+
+aafkr: { afrka, akrfa }
+
+aag: { aga }
+
+aagg: { agga }
+
+aaggg: { aggga }
+
+aaggh: { aggha, aghga, ahgga }
+
+aaggi: { aggia, agiga, aigga }
+
+aaggj: { aggja, agjga, ajgga }
+
+aaggk: { aggka, agkga, akgga }
+
+aagh: { agha, ahga }
+
+aaghh: { aghha, ahgha, ahhga }
+
+aaghi: { aghia, agiha, ahgia, ahiga, aigha, aihga }
+
+aaghj: { aghja, agjha, ahgja, ahjga, ajgha, ajhga }
+
+aaghk: { aghka, agkha, ahgka, ahkga, akgha, akhga }
+
+aagi: { agia, aiga }
+
+aagii: { agiia, aigia, aiiga }
+
+aagij: { agija, agjia, aigja, aijga, ajgia, ajiga }
+
+aagik: { agika, agkia, aigka, aikga, akgia, akiga }
+
+aagj: { agja, ajga }
+
+aagjj: { agjja, ajgja, ajjga }
+
+aagjk: { agjka, agkja, ajgka, ajkga, akgja, akjga }
+
+aagk: { agka, akga }
+
+aagkk: { agkka, akgka, akkga }
+
+aaggl: { aglga }
+
+aaghl: { aglha, ahlga }
+
+aagil: { aglia, ailga }
+
+aagjl: { aglja, ajlga }
+
+aagkl: { aglka, aklga }
+
+aaggm: { agmga }
+
+aaghm: { agmha, ahmga }
+
+aagim: { agmia, aimga }
+
+aagjm: { agmja, ajmga }
+
+aagkm: { agmka, akmga }
+
+aaggn: { agnga }
+
+aaghn: { agnha, ahnga }
+
+aagin: { agnia, ainga }
+
+aagjn: { agnja, ajnga }
+
+aagkn: { agnka, aknga }
+
+aaggo: { agoga }
+
+aagho: { agoha, ahoga }
+
+aagio: { agoia, aioga }
+
+aagjo: { agoja, ajoga }
+
+aagko: { agoka, akoga }
+
+aaggp: { agpga }
+
+aaghp: { agpha, ahpga }
+
+aagip: { agpia, aipga }
+
+aagjp: { agpja, ajpga }
+
+aagkp: { agpka, akpga }
+
+aaggq: { agqga }
+
+aaghq: { agqha, ahqga }
+
+aagiq: { agqia, aiqga }
+
+aagjq: { agqja, ajqga }
+
+aagkq: { agqka, akqga }
+
+aaggr: { agrga }
+
+aaghr: { agrha, ahrga }
+
+aagir: { agria, airga }
+
+aagjr: { agrja, ajrga }
+
+aagkr: { agrka, akrga }
+
+aah: { aha }
+
+aahh: { ahha }
+
+aahhh: { ahhha }
+
+aahhi: { ahhia, ahiha, aihha }
+
+aahhj: { ahhja, ahjha, ajhha }
+
+aahhk: { ahhka, ahkha, akhha }
+
+aahi: { ahia, aiha }
+
+aahii: { ahiia, aihia, aiiha }
+
+aahij: { ahija, ahjia, aihja, aijha, ajhia, ajiha }
+
+aahik: { ahika, ahkia, aihka, aikha, akhia, akiha }
+
+aahj: { ahja, ajha }
+
+aahjj: { ahjja, ajhja, ajjha }
+
+aahjk: { ahjka, ahkja, ajhka, ajkha, akhja, akjha }
+
+aahk: { ahka, akha }
+
+aahkk: { ahkka, akhka, akkha }
+
+aahhl: { ahlha }
+
+aahil: { ahlia, ailha }
+
+aahjl: { ahlja, ajlha }
+
+aahkl: { ahlka, aklha }
+
+aahhm: { ahmha }
+
+aahim: { ahmia, aimha }
+
+aahjm: { ahmja, ajmha }
+
+aahkm: { ahmka, akmha }
+
+aahhn: { ahnha }
+
+aahin: { ahnia, ainha }
+
+aahjn: { ahnja, ajnha }
+
+aahkn: { ahnka, aknha }
+
+aahho: { ahoha }
+
+aahio: { ahoia, aioha }
+
+aahjo: { ahoja, ajoha }
+
+aahko: { ahoka, akoha }
+
+aahhp: { ahpha }
+
+aahip: { ahpia, aipha }
+
+aahjp: { ahpja, ajpha }
+
+aahkp: { ahpka, akpha }
+
+aahhq: { ahqha }
+
+aahiq: { ahqia, aiqha }
+
+aahjq: { ahqja, ajqha }
+
+aahkq: { ahqka, akqha }
+
+aahhr: { ahrha }
+
+aahir: { ahria, airha }
+
+aahjr: { ahrja, ajrha }
+
+aahkr: { ahrka, akrha }
+
+aai: { aia }
+
+aaii: { aiia }
+
+aaiii: { aiiia }
+
+aaiij: { aiija, aijia, ajiia }
+
+aaiik: { aiika, aikia, akiia }
+
+aaij: { aija, ajia }
+
+aaijj: { aijja, ajija, ajjia }
+
+aaijk: { aijka, aikja, ajika, ajkia, akija, akjia }
+
+aaik: { aika, akia }
+
+aaikk: { aikka, akika, akkia }
+
+aaiil: { ailia }
+
+aaijl: { ailja, ajlia }
+
+aaikl: { ailka, aklia }
+
+aaiim: { aimia }
+
+aaijm: { aimja, ajmia }
+
+aaikm: { aimka, akmia }
+
+aaiin: { ainia }
+
+aaijn: { ainja, ajnia }
+
+aaikn: { ainka, aknia }
+
+aaiio: { aioia }
+
+aaijo: { aioja, ajoia }
+
+aaiko: { aioka, akoia }
+
+aaiip: { aipia }
+
+aaijp: { aipja, ajpia }
+
+aaikp: { aipka, akpia }
+
+aaiiq: { aiqia }
+
+aaijq: { aiqja, ajqia }
+
+aaikq: { aiqka, akqia }
+
+aaiir: { airia }
+
+aaijr: { airja, ajria }
+
+aaikr: { airka, akria }
+
+aaj: { aja }
+
+aajj: { ajja }
+
+aajjj: { ajjja }
+
+aajjk: { ajjka, ajkja, akjja }
+
+aajk: { ajka, akja }
+
+aajkk: { ajkka, akjka, akkja }
+
+aajjl: { ajlja }
+
+aajkl: { ajlka, aklja }
+
+aajjm: { ajmja }
+
+aajkm: { ajmka, akmja }
+
+aajjn: { ajnja }
+
+aajkn: { ajnka, aknja }
+
+aajjo: { ajoja }
+
+aajko: { ajoka, akoja }
+
+aajjp: { ajpja }
+
+aajkp: { ajpka, akpja }
+
+aajjq: { ajqja }
+
+aajkq: { ajqka, akqja }
+
+aajjr: { ajrja }
+
+aajkr: { ajrka, akrja }
+
+aak: { aka }
+
+aakk: { akka }
+
+aakkk: { akkka }
+
+aakkl: { aklka }
+
+aakkm: { akmka }
+
+aakkn: { aknka }
+
+aakko: { akoka }
+
+aakkp: { akpka }
+
+aakkq: { akqka }
+
+aakkr: { akrka }
+
+aaaaz: { aazaa }
+
+aaabz: { aazba, abzaa }
+
+aaacz: { aazca, aczaa }
+
+aaadz: { aazda, adzaa }
+
+aaaez: { aazea, aezaa }
+
+aaafz: { aazfa, afzaa }
+
+aaagz: { aazga, agzaa }
+
+aaahz: { aazha, ahzaa }
+
+aaaiz: { aazia, aizaa }
+
+aaajz: { aazja, ajzaa }
+
+aabbz: { abzba }
+
+aabcz: { abzca, aczba }
+
+aabdz: { abzda, adzba }
+
+aabez: { abzea, aezba }
+
+aabfz: { abzfa, afzba }
+
+aabgz: { abzga, agzba }
+
+aabhz: { abzha, ahzba }
+
+aabiz: { abzia, aizba }
+
+aabjz: { abzja, ajzba }
+
+aaccz: { aczca }
+
+aacdz: { aczda, adzca }
+
+aacez: { aczea, aezca }
+
+aacfz: { aczfa, afzca }
+
+aacgz: { aczga, agzca }
+
+aachz: { aczha, ahzca }
+
+aaciz: { aczia, aizca }
+
+aacjz: { aczja, ajzca }
+
+aaddz: { adzda }
+
+aadez: { adzea, aezda }
+
+aadfz: { adzfa, afzda }
+
+aadgz: { adzga, agzda }
+
+aadhz: { adzha, ahzda }
+
+aadiz: { adzia, aizda }
+
+aadjz: { adzja, ajzda }
+
+aaeez: { aezea }
+
+aaefz: { aezfa, afzea }
+
+aaegz: { aezga, agzea }
+
+aaehz: { aezha, ahzea }
+
+aaeiz: { aezia, aizea }
+
+aaejz: { aezja, ajzea }
+
+aaffz: { afzfa }
+
+aafgz: { afzga, agzfa }
+
+aafhz: { afzha, ahzfa }
+
+aafiz: { afzia, aizfa }
+
+aafjz: { afzja, ajzfa }
+
+aaggz: { agzga }
+
+aaghz: { agzha, ahzga }
+
+aagiz: { agzia, aizga }
+
+aagjz: { agzja, ajzga }
+
+aahhz: { ahzha }
+
+aahiz: { ahzia, aizha }
+
+aahjz: { ahzja, ajzha }
+
+aaiiz: { aizia }
+
+aaijz: { aizja, ajzia }
+
+aajjz: { ajzja }
+
+aaaay: { aayaa }
+
+aaaby: { aayba, abyaa }
+
+aaacy: { aayca, acyaa }
+
+aaady: { aayda, adyaa }
+
+aaaey: { aayea, aeyaa }
+
+aaafy: { aayfa, afyaa }
+
+aaagy: { aayga, agyaa }
+
+aaahy: { aayha, ahyaa }
+
+aaaiy: { aayia, aiyaa }
+
+aaajy: { aayja, ajyaa }
+
+aaaky: { aayka, akyaa }
+
+aabby: { abyba }
+
+aabcy: { abyca, acyba }
+
+aabdy: { abyda, adyba }
+
+aabey: { abyea, aeyba }
+
+aabfy: { abyfa, afyba }
+
+aabgy: { abyga, agyba }
+
+aabhy: { abyha, ahyba }
+
+aabiy: { abyia, aiyba }
+
+aabjy: { abyja, ajyba }
+
+aabky: { abyka, akyba }
+
+aaccy: { acyca }
+
+aacdy: { acyda, adyca }
+
+aacey: { acyea, aeyca }
+
+aacfy: { acyfa, afyca }
+
+aacgy: { acyga, agyca }
+
+aachy: { acyha, ahyca }
+
+aaciy: { acyia, aiyca }
+
+aacjy: { acyja, ajyca }
+
+aacky: { acyka, akyca }
+
+aaddy: { adyda }
+
+aadey: { adyea, aeyda }
+
+aadfy: { adyfa, afyda }
+
+aadgy: { adyga, agyda }
+
+aadhy: { adyha, ahyda }
+
+aadiy: { adyia, aiyda }
+
+aadjy: { adyja, ajyda }
+
+aadky: { adyka, akyda }
+
+aaeey: { aeyea }
+
+aaefy: { aeyfa, afyea }
+
+aaegy: { aeyga, agyea }
+
+aaehy: { aeyha, ahyea }
+
+aaeiy: { aeyia, aiyea }
+
+aaejy: { aeyja, ajyea }
+
+aaeky: { aeyka, akyea }
+
+aaffy: { afyfa }
+
+aafgy: { afyga, agyfa }
+
+aafhy: { afyha, ahyfa }
+
+aafiy: { afyia, aiyfa }
+
+aafjy: { afyja, ajyfa }
+
+aafky: { afyka, akyfa }
+
+aaggy: { agyga }
+
+aaghy: { agyha, ahyga }
+
+aagiy: { agyia, aiyga }
+
+aagjy: { agyja, ajyga }
+
+aagky: { agyka, akyga }
+
+aahhy: { ahyha }
+
+aahiy: { ahyia, aiyha }
+
+aahjy: { ahyja, ajyha }
+
+aahky: { ahyka, akyha }
+
+aaiiy: { aiyia }
+
+aaijy: { aiyja, ajyia }
+
+aaiky: { aiyka, akyia }
+
+aajjy: { ajyja }
+
+aajky: { ajyka, akyja }
+
+aakky: { akyka }
+
+aaaax: { aaxaa }
+
+aaabx: { aaxba, abxaa }
+
+aaacx: { aaxca, acxaa }
+
+aaadx: { aaxda, adxaa }
+
+aaaex: { aaxea, aexaa }
+
+aaafx: { aaxfa, afxaa }
+
+aaagx: { aaxga, agxaa }
+
+aaahx: { aaxha, ahxaa }
+
+aaaix: { aaxia, aixaa }
+
+aaajx: { aaxja, ajxaa }
+
+aaakx: { aaxka, akxaa }
+
+aabbx: { abxba }
+
+aabcx: { abxca, acxba }
+
+aabdx: { abxda, adxba }
+
+aabex: { abxea, aexba }
+
+aabfx: { abxfa, afxba }
+
+aabgx: { abxga, agxba }
+
+aabhx: { abxha, ahxba }
+
+aabix: { abxia, aixba }
+
+aabjx: { abxja, ajxba }
+
+aabkx: { abxka, akxba }
+
+aaccx: { acxca }
+
+aacdx: { acxda, adxca }
+
+aacex: { acxea, aexca }
+
+aacfx: { acxfa, afxca }
+
+aacgx: { acxga, agxca }
+
+aachx: { acxha, ahxca }
+
+aacix: { acxia, aixca }
+
+aacjx: { acxja, ajxca }
+
+aackx: { acxka, akxca }
+
+aaddx: { adxda }
+
+aadex: { adxea, aexda }
+
+aadfx: { adxfa, afxda }
+
+aadgx: { adxga, agxda }
+
+aadhx: { adxha, ahxda }
+
+aadix: { adxia, aixda }
+
+aadjx: { adxja, ajxda }
+
+aadkx: { adxka, akxda }
+
+aaeex: { aexea }
+
+aaefx: { aexfa, afxea }
+
+aaegx: { aexga, agxea }
+
+aaehx: { aexha, ahxea }
+
+aaeix: { aexia, aixea }
+
+aaejx: { aexja, ajxea }
+
+aaekx: { aexka, akxea }
+
+aaffx: { afxfa }
+
+aafgx: { afxga, agxfa }
+
+aafhx: { afxha, ahxfa }
+
+aafix: { afxia, aixfa }
+
+aafjx: { afxja, ajxfa }
+
+aafkx: { afxka, akxfa }
+
+aaggx: { agxga }
+
+aaghx: { agxha, ahxga }
+
+aagix: { agxia, aixga }
+
+aagjx: { agxja, ajxga }
+
+aagkx: { agxka, akxga }
+
+aahhx: { ahxha }
+
+aahix: { ahxia, aixha }
+
+aahjx: { ahxja, ajxha }
+
+aahkx: { ahxka, akxha }
+
+aaiix: { aixia }
+
+aaijx: { aixja, ajxia }
+
+aaikx: { aixka, akxia }
+
+aajjx: { ajxja }
+
+aajkx: { ajxka, akxja }
+
+aakkx: { akxka }
+
+aaaas: { aasaa }
+
+aaabs: { aasba, absaa }
+
+aaacs: { aasca, acsaa }
+
+aaads: { aasda, adsaa }
+
+aaaes: { aasea, aesaa }
+
+aaafs: { aasfa, afsaa }
+
+aaags: { aasga, agsaa }
+
+aaahs: { aasha, ahsaa }
+
+aaais: { aasia, aisaa }
+
+aaajs: { aasja, ajsaa }
+
+aaaks: { aaska, aksaa }
+
+aaaat: { aataa }
+
+aaabt: { aatba, abtaa }
+
+aaact: { aatca, actaa }
+
+aaadt: { aatda, adtaa }
+
+aaaet: { aatea, aetaa }
+
+aaaft: { aatfa, aftaa }
+
+aaagt: { aatga, agtaa }
+
+aaaht: { aatha, ahtaa }
+
+aaait: { aatia, aitaa }
+
+aaajt: { aatja, ajtaa }
+
+aaakt: { aatka, aktaa }
+
+aaaav: { aavaa }
+
+aaabv: { aavba, abvaa }
+
+aaacv: { aavca, acvaa }
+
+aaadv: { aavda, advaa }
+
+aaaev: { aavea, aevaa }
+
+aaafv: { aavfa, afvaa }
+
+aaagv: { aavga, agvaa }
+
+aaahv: { aavha, ahvaa }
+
+aaaiv: { aavia, aivaa }
+
+aaajv: { aavja, ajvaa }
+
+aaakv: { aavka, akvaa }
+
+aabbs: { absba }
+
+aabcs: { absca, acsba }
+
+aabds: { absda, adsba }
+
+aabes: { absea, aesba }
+
+aabfs: { absfa, afsba }
+
+aabgs: { absga, agsba }
+
+aabhs: { absha, ahsba }
+
+aabis: { absia, aisba }
+
+aabjs: { absja, ajsba }
+
+aabks: { abska, aksba }
+
+aabbt: { abtba }
+
+aabct: { abtca, actba }
+
+aabdt: { abtda, adtba }
+
+aabet: { abtea, aetba }
+
+aabft: { abtfa, aftba }
+
+aabgt: { abtga, agtba }
+
+aabht: { abtha, ahtba }
+
+aabit: { abtia, aitba }
+
+aabjt: { abtja, ajtba }
+
+aabkt: { abtka, aktba }
+
+aabbv: { abvba }
+
+aabcv: { abvca, acvba }
+
+aabdv: { abvda, advba }
+
+aabev: { abvea, aevba }
+
+aabfv: { abvfa, afvba }
+
+aabgv: { abvga, agvba }
+
+aabhv: { abvha, ahvba }
+
+aabiv: { abvia, aivba }
+
+aabjv: { abvja, ajvba }
+
+aabkv: { abvka, akvba }
+
+aaccs: { acsca }
+
+aacds: { acsda, adsca }
+
+aaces: { acsea, aesca }
+
+aacfs: { acsfa, afsca }
+
+aacgs: { acsga, agsca }
+
+aachs: { acsha, ahsca }
+
+aacis: { acsia, aisca }
+
+aacjs: { acsja, ajsca }
+
+aacks: { acska, aksca }
+
+aacct: { actca }
+
+aacdt: { actda, adtca }
+
+aacet: { actea, aetca }
+
+aacft: { actfa, aftca }
+
+aacgt: { actga, agtca }
+
+aacht: { actha, ahtca }
+
+aacit: { actia, aitca }
+
+aacjt: { actja, ajtca }
+
+aackt: { actka, aktca }
+
+aaccv: { acvca }
+
+aacdv: { acvda, advca }
+
+aacev: { acvea, aevca }
+
+aacfv: { acvfa, afvca }
+
+aacgv: { acvga, agvca }
+
+aachv: { acvha, ahvca }
+
+aaciv: { acvia, aivca }
+
+aacjv: { acvja, ajvca }
+
+aackv: { acvka, akvca }
+
+aadds: { adsda }
+
+aades: { adsea, aesda }
+
+aadfs: { adsfa, afsda }
+
+aadgs: { adsga, agsda }
+
+aadhs: { adsha, ahsda }
+
+aadis: { adsia, aisda }
+
+aadjs: { adsja, ajsda }
+
+aadks: { adska, aksda }
+
+aaddt: { adtda }
+
+aadet: { adtea, aetda }
+
+aadft: { adtfa, aftda }
+
+aadgt: { adtga, agtda }
+
+aadht: { adtha, ahtda }
+
+aadit: { adtia, aitda }
+
+aadjt: { adtja, ajtda }
+
+aadkt: { adtka, aktda }
+
+aaddv: { advda }
+
+aadev: { advea, aevda }
+
+aadfv: { advfa, afvda }
+
+aadgv: { advga, agvda }
+
+aadhv: { advha, ahvda }
+
+aadiv: { advia, aivda }
+
+aadjv: { advja, ajvda }
+
+aadkv: { advka, akvda }
+
+aaees: { aesea }
+
+aaefs: { aesfa, afsea }
+
+aaegs: { aesga, agsea }
+
+aaehs: { aesha, ahsea }
+
+aaeis: { aesia, aisea }
+
+aaejs: { aesja, ajsea }
+
+aaeks: { aeska, aksea }
+
+aaeet: { aetea }
+
+aaeft: { aetfa, aftea }
+
+aaegt: { aetga, agtea }
+
+aaeht: { aetha, ahtea }
+
+aaeit: { aetia, aitea }
+
+aaejt: { aetja, ajtea }
+
+aaekt: { aetka, aktea }
+
+aaeev: { aevea }
+
+aaefv: { aevfa, afvea }
+
+aaegv: { aevga, agvea }
+
+aaehv: { aevha, ahvea }
+
+aaeiv: { aevia, aivea }
+
+aaejv: { aevja, ajvea }
+
+aaekv: { aevka, akvea }
+
+aaffs: { afsfa }
+
+aafgs: { afsga, agsfa }
+
+aafhs: { afsha, ahsfa }
+
+aafis: { afsia, aisfa }
+
+aafjs: { afsja, ajsfa }
+
+aafks: { afska, aksfa }
+
+aafft: { aftfa }
+
+aafgt: { aftga, agtfa }
+
+aafht: { aftha, ahtfa }
+
+aafit: { aftia, aitfa }
+
+aafjt: { aftja, ajtfa }
+
+aafkt: { aftka, aktfa }
+
+aaffv: { afvfa }
+
+aafgv: { afvga, agvfa }
+
+aafhv: { afvha, ahvfa }
+
+aafiv: { afvia, aivfa }
+
+aafjv: { afvja, ajvfa }
+
+aafkv: { afvka, akvfa }
+
+aaggs: { agsga }
+
+aaghs: { agsha, ahsga }
+
+aagis: { agsia, aisga }
+
+aagjs: { agsja, ajsga }
+
+aagks: { agska, aksga }
+
+aaggt: { agtga }
+
+aaght: { agtha, ahtga }
+
+aagit: { agtia, aitga }
+
+aagjt: { agtja, ajtga }
+
+aagkt: { agtka, aktga }
+
+aaggv: { agvga }
+
+aaghv: { agvha, ahvga }
+
+aagiv: { agvia, aivga }
+
+aagjv: { agvja, ajvga }
+
+aagkv: { agvka, akvga }
+
+aahhs: { ahsha }
+
+aahis: { ahsia, aisha }
+
+aahjs: { ahsja, ajsha }
+
+aahks: { ahska, aksha }
+
+aahht: { ahtha }
+
+aahit: { ahtia, aitha }
+
+aahjt: { ahtja, ajtha }
+
+aahkt: { ahtka, aktha }
+
+aahhv: { ahvha }
+
+aahiv: { ahvia, aivha }
+
+aahjv: { ahvja, ajvha }
+
+aahkv: { ahvka, akvha }
+
+aaiis: { aisia }
+
+aaijs: { aisja, ajsia }
+
+aaiks: { aiska, aksia }
+
+aaiit: { aitia }
+
+aaijt: { aitja, ajtia }
+
+aaikt: { aitka, aktia }
+
+aaiiv: { aivia }
+
+aaijv: { aivja, ajvia }
+
+aaikv: { aivka, akvia }
+
+aajjs: { ajsja }
+
+aajks: { ajska, aksja }
+
+aajjt: { ajtja }
+
+aajkt: { ajtka, aktja }
+
+aajjv: { ajvja }
+
+aajkv: { ajvka, akvja }
+
+aakks: { akska }
+
+aakkt: { aktka }
+
+aakkv: { akvka }
+
+aaaaw: { aawaa }
+
+aaabw: { aawba, abwaa }
+
+aaacw: { aawca, acwaa }
+
+aaadw: { aawda, adwaa }
+
+aaaew: { aawea, aewaa }
+
+aaafw: { aawfa, afwaa }
+
+aaagw: { aawga, agwaa }
+
+aaahw: { aawha, ahwaa }
+
+aaaiw: { aawia, aiwaa }
+
+aaajw: { aawja, ajwaa }
+
+aaakw: { aawka, akwaa }
+
+aabbw: { abwba }
+
+aabcw: { abwca, acwba }
+
+aabdw: { abwda, adwba }
+
+aabew: { abwea, aewba }
+
+aabfw: { abwfa, afwba }
+
+aabgw: { abwga, agwba }
+
+aabhw: { abwha, ahwba }
+
+aabiw: { abwia, aiwba }
+
+aabjw: { abwja, ajwba }
+
+aabkw: { abwka, akwba }
+
+aaccw: { acwca }
+
+aacdw: { acwda, adwca }
+
+aacew: { acwea, aewca }
+
+aacfw: { acwfa, afwca }
+
+aacgw: { acwga, agwca }
+
+aachw: { acwha, ahwca }
+
+aaciw: { acwia, aiwca }
+
+aacjw: { acwja, ajwca }
+
+aackw: { acwka, akwca }
+
+aaddw: { adwda }
+
+aadew: { adwea, aewda }
+
+aadfw: { adwfa, afwda }
+
+aadgw: { adwga, agwda }
+
+aadhw: { adwha, ahwda }
+
+aadiw: { adwia, aiwda }
+
+aadjw: { adwja, ajwda }
+
+aadkw: { adwka, akwda }
+
+aaeew: { aewea }
+
+aaefw: { aewfa, afwea }
+
+aaegw: { aewga, agwea }
+
+aaehw: { aewha, ahwea }
+
+aaeiw: { aewia, aiwea }
+
+aaejw: { aewja, ajwea }
+
+aaekw: { aewka, akwea }
+
+aaffw: { afwfa }
+
+aafgw: { afwga, agwfa }
+
+aafhw: { afwha, ahwfa }
+
+aafiw: { afwia, aiwfa }
+
+aafjw: { afwja, ajwfa }
+
+aafkw: { afwka, akwfa }
+
+aaggw: { agwga }
+
+aaghw: { agwha, ahwga }
+
+aagiw: { agwia, aiwga }
+
+aagjw: { agwja, ajwga }
+
+aagkw: { agwka, akwga }
+
+aahhw: { ahwha }
+
+aahiw: { ahwia, aiwha }
+
+aahjw: { ahwja, ajwha }
+
+aahkw: { ahwka, akwha }
+
+aaiiw: { aiwia }
+
+aaijw: { aiwja, ajwia }
+
+aaikw: { aiwka, akwia }
+
+aajjw: { ajwja }
+
+aajkw: { ajwka, akwja }
+
+aakkw: { akwka }
+
+aaaau: { aauaa }
+
+aaabu: { aauba, abuaa }
+
+aaacu: { aauca, acuaa }
+
+aaadu: { aauda, aduaa }
+
+aaaeu: { aauea, aeuaa }
+
+aaafu: { aaufa, afuaa }
+
+aaagu: { aauga, aguaa }
+
+aaahu: { aauha, ahuaa }
+
+aaaiu: { aauia, aiuaa }
+
+aaaju: { aauja, ajuaa }
+
+aaaku: { aauka, akuaa }
+
+aabbu: { abuba }
+
+aabcu: { abuca, acuba }
+
+aabdu: { abuda, aduba }
+
+aabeu: { abuea, aeuba }
+
+aabfu: { abufa, afuba }
+
+aabgu: { abuga, aguba }
+
+aabhu: { abuha, ahuba }
+
+aabiu: { abuia, aiuba }
+
+aabju: { abuja, ajuba }
+
+aabku: { abuka, akuba }
+
+aaccu: { acuca }
+
+aacdu: { acuda, aduca }
+
+aaceu: { acuea, aeuca }
+
+aacfu: { acufa, afuca }
+
+aacgu: { acuga, aguca }
+
+aachu: { acuha, ahuca }
+
+aaciu: { acuia, aiuca }
+
+aacju: { acuja, ajuca }
+
+aacku: { acuka, akuca }
+
+aaddu: { aduda }
+
+aadeu: { aduea, aeuda }
+
+aadfu: { adufa, afuda }
+
+aadgu: { aduga, aguda }
+
+aadhu: { aduha, ahuda }
+
+aadiu: { aduia, aiuda }
+
+aadju: { aduja, ajuda }
+
+aadku: { aduka, akuda }
+
+aaeeu: { aeuea }
+
+aaefu: { aeufa, afuea }
+
+aaegu: { aeuga, aguea }
+
+aaehu: { aeuha, ahuea }
+
+aaeiu: { aeuia, aiuea }
+
+aaeju: { aeuja, ajuea }
+
+aaeku: { aeuka, akuea }
+
+aaffu: { afufa }
+
+aafgu: { afuga, agufa }
+
+aafhu: { afuha, ahufa }
+
+aafiu: { afuia, aiufa }
+
+aafju: { afuja, ajufa }
+
+aafku: { afuka, akufa }
+
+aaggu: { aguga }
+
+aaghu: { aguha, ahuga }
+
+aagiu: { aguia, aiuga }
+
+aagju: { aguja, ajuga }
+
+aagku: { aguka, akuga }
+
+aahhu: { ahuha }
+
+aahiu: { ahuia, aiuha }
+
+aahju: { ahuja, ajuha }
+
+aahku: { ahuka, akuha }
+
+aaiiu: { aiuia }
+
+aaiju: { aiuja, ajuia }
+
+aaiku: { aiuka, akuia }
+
+aajju: { ajuja }
+
+aajku: { ajuka, akuja }
+
+aakku: { akuka }
+
+
